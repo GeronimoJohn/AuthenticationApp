@@ -1,2 +1,3 @@
-# Markdown blog
-Will be develop through node.js, mongo db and express. It is not an api creation
+# Blog
+
+Will be develop in the Gatsby Environment
