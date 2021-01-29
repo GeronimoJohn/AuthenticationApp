@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+Blog created out of Gatsby, graphql, react and Contentful. 
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
